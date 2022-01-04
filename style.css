@@ -29,7 +29,7 @@ img{
     border-radius: 6%;
 }
 .top{
-    background-image: url(images/top-banner.png);
+    background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
 .half p{
@@ -37,7 +37,7 @@ img{
     font-size: 17px;
 }
 .top2{
-    background-image: url(images/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
@@ -54,7 +54,7 @@ img{
 
 }
 
-.fri{background-image:url(images/exp-bg.png) ;
+.fri{background-image:url(exp-bg.png) ;
 background-repeat: no-repeat;
 background-position: left;
 
